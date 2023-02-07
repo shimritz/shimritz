@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there 👋 I'm Shimrit Breef Ziskand
+
+## A passionate junior web developer who can't wait to start her dream job!
+
+---
+
+## Experience
+- Teaching basic OOP 
+- QA
+- insurance companies
+
+---
+
+## Stack
+- javascript
+- node.js
+- react.js
+- Html Css
+- tailwindcss
+- jest
+- MongoDB, Mongoose
+- firebase
+
+
 
 <!--
 **shimritz/shimritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
