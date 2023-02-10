@@ -4,13 +4,6 @@
 
 ---
 
-## Experience
-- Teaching basic OOP 
-- QA
-- insurance companies
-
----
-
 ## Stack
 - javascript
 - node.js
